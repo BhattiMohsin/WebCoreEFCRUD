@@ -1,0 +1,66 @@
+-- Learn ASP.NET MVC 5 ( Model view controller) step by step in 2 days ( 16 hours)
+https://www.youtube.com/watch?v=Lp7nSImO5vk
+https://www.youtube.com/watch?v=1dlxtHuRw34  --Part-4
+https://www.youtube.com/watch?v=0kmdjqgO9IY&list=RDCMUCHI5xgQujSyqz_UyKdLFaqw
+
+--ASP.NET MVC Interview Questions with Answers | ASP.NET Interview Questions  Time : 45:15  Done Today
+https://www.youtube.com/watch?v=pXmMdmJUC0g
+
+-- ASP.NET MVC Interview questions and answers on Dependency Injection Time : 20:00 Done Today
+https://www.youtube.com/watch?v=yVKTvtevM0w&t=178s
+
+--- IEnumerable vs IQueryable C# | C# Interview Questions | Csharp Interview  Time : 7:20 Done Today
+https://www.youtube.com/watch?v=yfPGFapabAY&t=73s
+
+-- SQL Query Optimization and performance tuning Time : 07:28 Done Today
+https://www.youtube.com/watch?v=LpPo7R8siXA
+-- Improve SQL Server performance using profiler and tuning advisor Time : 13:12
+https://www.youtube.com/watch?v=AaPaIVI-yyI
+--Indexes in SQL Server | Use Indexes for Faster Search in SQL | SQL Time : 11:30 Done Today
+https://www.youtube.com/watch?v=rtmeNwn4mEg
+
+-- SQL Server Interview Questions and Answers | SQL Interview Questions Time : 51:20
+https://www.youtube.com/watch?v=SEdAF8mSKS4
+
+--- SOLID Principal - Interview Questions and Answers best with example
+https://www.youtube.com/watch?v=xmI-Ubq_AAc
+
+--OOPS Interview Questions and Answers | Object Oriented Programming Interview Time : 58:12
+https://www.youtube.com/watch?v=u99wAoBjDvQ
+
+--Top 100 C#/ .NET/ Web API/ SQL Interview Questions   Time : 2:49:19 Done 
+https://www.youtube.com/watch?v=U_Vm_AKzH3M    
+
+--C# Interview Questions and Answers | Important Csharp Interview Questions | C#  Time : 1:02:00  Part-1
+https://www.youtube.com/watch?v=BKynEBPqiIM
+
+--C# Interview Questions :- Stack Heap in C#| Boxing Unboxing in C# | Value Type Reference Type in C# Time : 1:03:00 Part-2
+https://www.youtube.com/watch?v=7O4JPdKjc30
+
+-- Ready website 
+https://www.tutorialsteacher.com/
+https://www.javatpoint.com/entity-framework-interview-questions
+
+
+--Entity Framework Introduction -- Best to know EF
+https://www.youtube.com/watch?v=DAGnYt4fzHU&list=PLo4twE8XBOPyyJBpC72frZt8cCk8N2zKt
+
+--Stored Procedure in Entity Framework Code first and asp net mvc-Part 1
+https://www.youtube.com/watch?v=vmVdyppX32o
+
+--Create ASP.NET Core Web Application With SQL Server Database Connection and CRUD Operations
+https://www.youtube.com/watch?v=T-e554Zt3n4
+
+--Learnig New Technologies with Udemy Best for Beginner
+Full course on Udemy : Asp.net Core [Must recommended]
+https://www.udemy.com/course/aspnet-core-web-application-using-razor-pages/
+
+-- GitHub Actions - The Complete Guide
+https://www.udemy.com/course/github-actions-the-complete-guide/?kw=Git&src=sac
+
+--.NET Core MVC - The Complete Guide 2023 [E-commerce app]
+https://www.udemy.com/course/complete-aspnet-core-21-course/?kw=MVC&src=sac
+
+--Best Article for Dependency Injection to Read....
+https://www.c-sharpcorner.com/UploadFile/85ed7a/dependency-injection-in-C-Sharp/
+https://www.dotnettricks.com/learn/dependencyinjection/implementation-asp-net-core-mvc#:~:text=There%20are%20three%20types%20of,Setter%20Injection%2C%20Interface%20based%20Injection.

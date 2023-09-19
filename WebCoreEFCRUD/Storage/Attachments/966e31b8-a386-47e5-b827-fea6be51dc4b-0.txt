@@ -1,0 +1,9 @@
+Benefits of DI
+Dependency Injection (DI) can offer several benefits for your software architecture, such as improved modularity, increased testability, enhanced flexibility, and simplified maintenance. DI separates the creation and consumption of dependencies, allowing for code to be organized into smaller units with clear responsibilities and interfaces. It also allows for dependencies to be replaced with mocks or stubs in unit tests without modifying the original code. Furthermore, DI decouples code from specific implementations, making it easy to swap or update dependencies without affecting the rest of the system. Finally, DI reduces the complexity and interdependence of your code, making it easier to understand, debug, and refactor.
+
+Best Article for Dependency Injection to Read....
+https://www.c-sharpcorner.com/UploadFile/85ed7a/dependency-injection-in-C-Sharp/
+https://www.dotnettricks.com/learn/dependencyinjection/implementation-asp-net-core-mvc#:~:text=There%20are%20three%20types%20of,Setter%20Injection%2C%20Interface%20based%20Injection.
+
+--Dependency Injection (DI) and Inversion of Control (IOC)
+https://www.c-sharpcorner.com/UploadFile/cda5ba/dependency-injection-di-and-inversion-of-control-ioc/#:~:text=Inversion%20of%20control%20(IOC)%20talks%20about%20who%20will%20initiate%20the,on%20another%20object%20through%20abstraction.
