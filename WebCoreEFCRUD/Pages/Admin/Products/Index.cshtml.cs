@@ -26,10 +26,7 @@ namespace WebCoreEFCRUD.Pages.Admin.Products
 
         public List<Product> Products { get; set; } = new List<Product>();
 
-
-       
-
-
+              
         public IndexModel(ApplicationDbContext context)
         {
             this.context = context;
@@ -131,8 +128,6 @@ namespace WebCoreEFCRUD.Pages.Admin.Products
                     query = query.OrderByDescending(p => p.Id);
                 }
             }
-
-
             //Pagination functionality
             if (pageIndex == null || pageIndex < 1)
             {
